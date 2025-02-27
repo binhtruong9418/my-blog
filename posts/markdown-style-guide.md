@@ -4,6 +4,7 @@ titleIcon: 'asset:markdown'
 titleColor: '#20B2AA,#aaa'
 tags: [ 'Markdown' ]
 categories: [ 'Markdown' ]
+publishDate: 'Feb 27 2025'
 description: |
   A comprehensive guide to writing Markdown content.
 ---
