@@ -1,17 +1,17 @@
 ---
 layout: '@/layouts/PageLayout.astro'
-asideCards: 
+asideCards:
   - CardInfo
   - CardMarkdown:
-      title: 技术栈
+      title: My Profile
       content: |
-        - 框架 Astro
-        - 主题 Antares
-title: 'Antares 介绍'
+        - Hanoi University of Science and Technology
+        - Free Code School Company
+title: 'About'
 titleShow: false
 ---
 
 import { readFileSync } from '@/utils'
 import Markdown from '@/components/atomic/Markdown.astro'
 
-<Markdown render set:html={readFileSync('./README.md')}/>
+<Markdown render set:html={readFileSync('./about-me.md')}/>
