@@ -25,9 +25,15 @@
 
 ## Skills
 
-- 💻 **Programming Languages:** HTML, CSS
-- ⚙️ **Frameworks:** [List of frameworks]
-- 🛠️ **Abilities:** [List of abilities and technologies]
+- 💻 **Programming Languages:** HTML, CSS, JavaScript, TypeScript, ...
+- 🗄️ **Databases:** PostgresSQL, MySQL, MongoDB, Redis, ...
+- 🐳 **Containerization:** Docker (Basic)
+
+[//]: # (- ☁️ **Cloud Services:** AWS, GCP)
+- ⚙️ **Orchestration:** Kubernetes (K8s) (Basic)
+- ⚛️ **Frameworks:** React, Next.js, NestJS, Bun ElysiaJS, ExpressJS, ...
+- 🛠️ **Other Technologies:** Git, GitHub, ...
+- 📚 **Learning:** Blockchain, DevOps, Cloud Computing, ...
 
 ---
 
